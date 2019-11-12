@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Statistics, Zhejiang University, 2018
-;* M.S. in Jekyll, GitHub University, 2014
+<!-- M.S. in Jekyll, GitHub University, 2014-->
 * Ph.D in Statistics, The University of Hong Kong, 2022 (expected)
 
 Work experience
