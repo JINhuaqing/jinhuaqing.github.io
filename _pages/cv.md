@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Statistics, Zhejiang University, 2018
-<!-- M.S. in Jekyll, GitHub University, 2014-->
+
 * Ph.D in Statistics, The University of Hong Kong, 2022 (expected)
 
 Work experience
@@ -27,14 +27,17 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+
+Programming 
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* R
+* C++
+
+Languages
+=======
+* Chinese (native)
+* English (fluent)
 
 Publications
 ======

@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Advanced Statistical Modelling"
 collection: teaching
-type: "Undergraduate course"
+type: "TPG Course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "The University of Hong Kong, Department of Statistics and Actuarial Science"
+date: 2018-2020
+location: "Hong Kong, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Be a tutor for this course.
 
-Heading 1
-======
+- Give tuturial weekly. 
 
-Heading 2
-======
-
-Heading 3
-======
+- Mark assignments and mini-project reports
