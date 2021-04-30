@@ -15,18 +15,6 @@ Education
 
 * Ph.D in Statistics, The University of Hong Kong, 2022 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 
 Programming 
 ======
@@ -57,6 +45,11 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Awards
 ======
-* Currently signed in to 43 different slack teams
+* First-Class Scholarship for Outstanding Students, 2015, Zhejiang University
+* First-Class Scholarship for Outstanding Merits, 2015, Zhejiang University
+* Fung Scholarship, 2016, Victor and William Fung Foundation
+* Hong Kong PhD Fellowship, 2018, University Grants Committee, HK.
+* The finalist for the SCT Thomas Chalmers Student Scholarship, 2020, Society for Clinical Trials
+* Hung Hing Ying Scholarship, 2020-2021, The University of Hong Kong
