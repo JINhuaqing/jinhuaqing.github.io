@@ -2,14 +2,17 @@
 title: "Advanced Statistical Modelling"
 collection: teaching
 type: "TPG Course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/HKU-STAT6014
 venue: "The University of Hong Kong, Department of Statistics and Actuarial Science"
 date: 2018-09-01
 location: "Hong Kong, China"
 ---
 
-Be a tutor for this course.
+From 2018-09 to 2021-01, be the tutor of this course for 5 semesters,
 
-- Give tuturial weekly. 
+- Give tuturials weekly. 
 
-- Mark assignments and mini-project reports
+- Mark assignments and mini-project reports.
+
+- Modify the tutorial slides.
+
