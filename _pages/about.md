@@ -10,6 +10,6 @@ redirect_from:
 
 
 
-**Huaqing Jin** is a PhD candidate in statistics under supervision of Prof Guosheng Yin and Dr Fei Jiang in the University of Hong Kong.
+**Huaqing Jin** is a PhD candidate in statistics under supervision of Prof. [Guosheng Yin](https://web.hku.hk/~gyin/) and Dr. [Fei Jiang](https://jianglab.ucsf.edu/home) in the University of Hong Kong.
 Before that, he obtained his bachelor degree in statistics from Zhejiang University.
 His research interests include Bayesian statistics, brain imaging and clinical trial.
