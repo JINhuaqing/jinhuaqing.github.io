@@ -26,8 +26,7 @@ author_profile: true
 phase II clinical trials](http://jinhuaqing.github.io/files/BETEC.pdf), ***Statistics in Medicine*** 39, 4452–4465.
 
 - Yin, G., Zhang, C. and **Jin, H.** (2020). 
-[Statistical issues and lessons learned from COVID19 clinical trials with lopinavir-ritonavir and remdesivir]
-(https://publichealth.jmir.org/2020/3/e19538/),
+[Statistical issues and lessons learned from COVID19 clinical trials with lopinavir-ritonavir and remdesivir](https://publichealth.jmir.org/2020/3/e19538/),
 ***JMIR Public Health and Surveillance***
 2020;6(3):e19538 doi:10.2196/19538
 
