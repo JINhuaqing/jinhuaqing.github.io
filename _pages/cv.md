@@ -30,9 +30,8 @@ Languages
   
 Awards
 ======
-* First-Class Scholarship for Outstanding Students, 2015, Zhejiang University
-* First-Class Scholarship for Outstanding Merits, 2015, Zhejiang University
-* Fung Scholarship, 2016, Victor and William Fung Foundation
+<!--* First-Class Scholarship for Outstanding Students, 2015, Zhejiang University -->
+* First-Class Scholarship for Outstanding Merits, 2015, Zhejiang University <!--* Fung Scholarship, 2016, Victor and William Fung Foundation -->
 * Hong Kong PhD Fellowship, 2018, University Grants Committee, HK.
 * The finalist for the SCT Thomas Chalmers Student Scholarship, 2020, Society for Clinical Trials
 * Hung Hing Ying Scholarship, 2020-2021, The University of Hong Kong
