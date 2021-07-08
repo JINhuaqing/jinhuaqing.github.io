@@ -14,7 +14,7 @@ author_profile: true
 
 ## **Manuscripts**
 
-- **Jin, H.** and Yin, G. (2021) [Unit Information Prior for Adaptive Information Borrowing from Multiple Historical Datasets](http://jinhuaqing.github.io/files/UIP.pdf), ***Arxiv***.
+- **Jin, H.** and Yin, G. (2021) [Unit Information Prior for Adaptive Information Borrowing from Multiple Historical Datasets](http://jinhuaqing.github.io/files/UIP.pdf), ***In press for Statistics in Medicine***.
 
 
 ## **Publications**
