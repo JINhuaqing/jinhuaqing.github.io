@@ -14,10 +14,12 @@ author_profile: true
 
 ## **Manuscripts**
 
-- **Jin, H.** and Yin, G. (2021) [Unit Information Prior for Adaptive Information Borrowing from Multiple Historical Datasets](http://jinhuaqing.github.io/files/UIP.pdf), ***In press for Statistics in Medicine***.
 
 
 ## **Publications**
+
+- **Jin, H.** and Yin, G. (2021) [Unit Information Prior for Adaptive Information Borrowing from Multiple Historical Datasets](http://jinhuaqing.github.io/files/UIP.pdf), In press for ***Statistics in Medicine***.
+
 - **Jin, H.**, Yin, G., Yuan, B., & Jiang, F. (2021). [Bayesian Hierarchical Model for Change Point Detection in Multivariate Sequences](http://jinhuaqing.github.io/files/mulseq-tech-final-both.pdf), In press for ***Technometrics***.
 
 
