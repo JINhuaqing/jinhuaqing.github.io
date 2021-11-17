@@ -20,6 +20,8 @@ Education
 ======
 * B.S. in Statistics, Zhejiang University, 2018
 
+* Exchange student, the University of Hong Kong, 2016-2017
+
 * Ph.D in Statistics, The University of Hong Kong, 2022 (expected)
 
 
@@ -41,7 +43,11 @@ Awards
 * First-Class Scholarship for Outstanding Merits, 2015, Zhejiang University <!--* Fung Scholarship, 2016, Victor and William Fung Foundation -->
 * Hong Kong PhD Fellowship, 2018, University Grants Committee, HK.
 * The finalist for the SCT Thomas Chalmers Student Scholarship, 2020, Society for Clinical Trials
-* Hung Hing Ying Scholarship, 2020-2021, The University of Hong Kong
+* Hung Hing Ying Scholarship, 2020-2022, The University of Hong Kong
 
+
+
+----
+----
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YD-xsuqtgbR5Opk1qnMnnTE5uqO1LZA-btlGEZfmoRA&cl=ffffff&w=a"></script>
