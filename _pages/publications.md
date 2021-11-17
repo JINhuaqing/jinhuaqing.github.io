@@ -18,26 +18,35 @@ author_profile: true
 
 ## **Publications**
 
-- Zhang, C., **Jin, H**., Wen, Y. and Yin, G.∗ (2021). Efficacy of COVID-19 Treatments: A Bayesian Network Meta-Analysis of Randomized Controlled Trials. in press for *Frontiers in Public Health*.
-- **Jin, H.** and Yin, G. (2021) [Unit Information Prior for Adaptive Information Borrowing from Multiple Historical Datasets](http://jinhuaqing.github.io/files/UIP.pdf), In press for ***Statistics in Medicine***.
-- **Jin, H.**, Yin, G., Yuan, B., & Jiang, F. (2021). [Bayesian Hierarchical Model for Change Point Detection in Multivariate Sequences](http://jinhuaqing.github.io/files/mulseq-tech-final-both.pdf), In press for ***Technometrics***.
+1. Zhang, C., **Jin, H**., Wen, Y. and Yin, G. (2021). 
+[Efficacy of COVID-19 Treatments: A Bayesian Network Meta-Analysis of Randomized Controlled Trials](http://jinhuaqing.github.io/files/UIP.pdf), 
+***Frontiers in Public Health***.
+
+3. **Jin, H.** and Yin, G. (2021) 
+[Unit Information Prior for Adaptive Information Borrowing from Multiple Historical Datasets](http://jinhuaqing.github.io/files/UIP.pdf),
+***Statistics in Medicine***.
+
+4.  **Jin, H.**, Yin, G., Yuan, B., & Jiang, F. (2021). 
+[Bayesian Hierarchical Model for Change Point Detection in Multivariate Sequences](http://jinhuaqing.github.io/files/mulseq-tech-final-both.pdf),
+***Technometrics***.
 
 
-- **Jin, H.** and Yin, G.
-(2020). [Bayesian enhancement two-stage design with error control for
-phase II clinical trials](http://jinhuaqing.github.io/files/BETEC.pdf), ***Statistics in Medicine*** 39, 4452–4465.
+6.  **Jin, H.** and Yin, G.  (2020). 
+[Bayesian enhancement two-stage design with error control for
+phase II clinical trials](http://jinhuaqing.github.io/files/BETEC.pdf), 
+***Statistics in Medicine***.
 
-- Yin, G., Zhang, C. and **Jin, H.** (2020). 
+1. Yin, G., Zhang, C. and **Jin, H.** (2020). 
 [Statistical issues and lessons learned from COVID19 clinical trials with lopinavir-ritonavir and remdesivir](https://publichealth.jmir.org/2020/3/e19538/),
-***JMIR Public Health and Surveillance***
-2020;6(3):e19538 doi:10.2196/19538
+***JMIR Public Health and Surveillance***.
 
-- Yin, G. and **Jin, H.** (2020). 
+
+1. Yin, G. and **Jin, H.** (2020). 
 [Comparison of transmissibility of coronavirus between symptomatic
 and asymptomatic patients: Reanalysis of the Ningbo COVID-19 data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7257483/),
-***JMIR Public Health and Surveillance*** 2020;6(2):e19464 doi:10.2196/19464
+***JMIR Public Health and Surveillance***.
 
-- Lam, C. K., **Jin, H.**, Jiang, F. and Yin, G.∗ (2020). 
-  A variable selection approach to multiple change-points detection, ***Statistics and Its Interface*** 13, 251–260.
-
+1. Lam, C. K., **Jin, H.**, Jiang, F. and Yin, G. (2020). 
+A variable selection approach to multiple change-points detection,
+***Statistics and Its Interface***
   
