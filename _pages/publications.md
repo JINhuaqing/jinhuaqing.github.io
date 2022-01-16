@@ -12,11 +12,16 @@ author_profile: true
 {% include base_path %}
 
 
+<!--
 ## **Manuscripts**
+-->
 
 
 
 ## **Publications**
+
+1. **Jin, H.** and Yin, G. (2022)
+[CFO: Calibration-Free Odds Design for Phase I/II Clinical Trials](http://jinhuaqing.github.io/files/CFO.pdf), ***Statistical Methods in Medical Research***. [[Supp](http://jinhuaqing.github.io/files/CFO-supp.pdf)] [[Code](https://github.com/JINhuaqing/CFO)]
 
 1. Zhang, C., **Jin, H**., Wen, Y. and Yin, G. (2021). 
 [Efficacy of COVID-19 Treatments: A Bayesian Network Meta-Analysis of Randomized Controlled Trials](http://jinhuaqing.github.io/files/UIP.pdf), 
@@ -34,7 +39,7 @@ author_profile: true
 6.  **Jin, H.** and Yin, G.  (2020). 
 [Bayesian enhancement two-stage design with error control for
 phase II clinical trials](http://jinhuaqing.github.io/files/BETEC.pdf), 
-***Statistics in Medicine***.
+***Statistics in Medicine***. [[Code](https://github.com/JINhuaqing/BETEC)]
 
 1. Yin, G., Zhang, C. and **Jin, H.** (2020). 
 [Statistical issues and lessons learned from COVID19 clinical trials with lopinavir-ritonavir and remdesivir](https://publichealth.jmir.org/2020/3/e19538/),

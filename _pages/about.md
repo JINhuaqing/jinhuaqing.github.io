@@ -9,12 +9,19 @@ redirect_from:
 ---
 
 
-
 **Huaqing Jin** is a PhD candidate in statistics under supervision of 
 Dr. [Fei Jiang](https://jianglab.ucsf.edu/home) and
 Prof. [Guosheng Yin](https://web.hku.hk/~gyin/) in the University of Hong Kong.
 Before that, he obtained his bachelor degree in statistics from Zhejiang University.
 His research interests include Bayesian statistics, brain imaging and clinical trial.
+
+He will join the [Brain Networks Laboratory](https://radiology.ucsf.edu/research/labs/brain-networks-lab) at UCSF as a post-doctor under supervision of 
+Prof. [Ashish Raj](https://radiology.ucsf.edu/people/ashish-raj) and
+Dr. [Fei Jiang](https://jianglab.ucsf.edu/home) 
+and working with 
+Prof. [Srikantan Nagarajan](https://profiles.ucsf.edu/srikantan.nagarajan)
+in July 2022.
+
 
 Education
 ======
@@ -25,6 +32,7 @@ Education
 * Ph.D in Statistics, The University of Hong Kong, 2022 (expected)
 
 
+<!--
 Programming 
 ======
 * Python
@@ -35,6 +43,7 @@ Languages
 =======
 * Chinese (native)
 * English (fluent)
+-->
 
   
 Awards
