@@ -20,11 +20,17 @@ author_profile: true
 
 ## **Publications**
 
+*: Co-first
+
+1. Jiang, F., **Jin, H.***, Gao, Y., Xie, X., Cummings, J., Raj, A., Nagarajan, S. (2022) 
+[Time-varying dynamic network model for dynamic resting state functional connectivity in fMRI and MEG imaging](https://doi.org/10.1016/j.neuroimage.2022.119131), ***NeuroImage***. 
+[[Code](https://github.com/JINhuaqing/TVDN)]
+
 1. **Jin, H.** and Yin, G. (2022)
 [CFO: Calibration-Free Odds Design for Phase I/II Clinical Trials](http://jinhuaqing.github.io/files/CFO.pdf), ***Statistical Methods in Medical Research***. [[Supp](http://jinhuaqing.github.io/files/CFO-supp.pdf)] [[Code](https://github.com/JINhuaqing/CFO)]
 
 1. Zhang, C., **Jin, H**., Wen, Y. and Yin, G. (2021). 
-[Efficacy of COVID-19 Treatments: A Bayesian Network Meta-Analysis of Randomized Controlled Trials](http://jinhuaqing.github.io/files/UIP.pdf), 
+[Efficacy of COVID-19 Treatments: A Bayesian Network Meta-Analysis of Randomized Controlled Trials](http://jinhuaqing.github.io/files/metaCOVID19.pdf), 
 ***Frontiers in Public Health***.
 
 3. **Jin, H.** and Yin, G. (2021) 
