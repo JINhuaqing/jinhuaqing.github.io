@@ -20,9 +20,9 @@ author_profile: true
 
 ## **Publications**
 
-*: Co-first
+^: Co-first
 
-1. Jiang, F., **Jin, H.***, Gao, Y., Xie, X., Cummings, J., Raj, A., Nagarajan, S. (2022) 
+1. Jiang, F., **Jin, H.^**, Gao, Y., Xie, X., Cummings, J., Raj, A., Nagarajan, S. (2022) 
 [Time-varying dynamic network model for dynamic resting state functional connectivity in fMRI and MEG imaging](https://doi.org/10.1016/j.neuroimage.2022.119131), ***NeuroImage***. 
 [[Code](https://github.com/JINhuaqing/TVDN)]
 
