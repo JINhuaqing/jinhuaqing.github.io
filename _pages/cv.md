@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Statistics, Zhejiang University, 2018
 
-* Ph.D in Statistics, The University of Hong Kong, 2022 (expected)
+* Ph.D in Statistics, The University of Hong Kong, 2022 
 
 
 Programming 

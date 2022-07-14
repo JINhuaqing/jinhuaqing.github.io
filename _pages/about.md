@@ -29,7 +29,7 @@ Education
 
 * Exchange student, the University of Hong Kong, 2016-2017
 
-* Ph.D in Statistics, The University of Hong Kong, 2022 (expected)
+* Ph.D in Statistics, The University of Hong Kong, 2022 
 
 
 <!--
