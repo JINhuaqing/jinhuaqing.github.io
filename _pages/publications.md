@@ -24,6 +24,12 @@ author_profile: true
 
 *: Corresponding author
 
+1. **Jin, H.**, Du, W., Yin, G.\* (2022)
+[Approximate Bayesian Computation Design for Phase I Clinical
+Trials](http://jinhuaqing.github.io/files/ABC-main.pdf), 
+***Statistical Methods in Medical Research***.
+[[Supp](http://jinhuaqing.github.io/files/ABC-supp.pdf)]
+
 1. **Jin, H.**, Ma, Y., Jiang, F.\* (2022)
 [Matrix Completion with Covariate Information and
 Informative Missingness](http://jinhuaqing.github.io/files/MNAR.pdf), 
