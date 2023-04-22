@@ -16,13 +16,17 @@ author_profile: true
 ## **Manuscripts**
 -->
 
-
-
 ## **Publications**
 
 ^: Co-first
 
 *: Corresponding author
+
+1. **Jin. H.**, Yin, G.\* (2023)
+[Time-to-Event Calibration-Free Odds Design: A Robust Efficient
+Design for Phase I Trials with Late-onset Outcomes](http://jinhuaqing.github.io/files/TITE-CFO.pdf), 
+***Pharmaceutical Statistics***. 
+[[Supp](http://jinhuaqing.github.io/files/TITE-CFO_supp.pdf)]
 
 1. **Jin, H.**, Du, W., Yin, G.\* (2022)
 [Approximate Bayesian Computation Design for Phase I Clinical
