@@ -22,7 +22,7 @@ author_profile: true
 
 *: Corresponding author
 
-1. **Jin, H.^**, Verma, P.^, Jiang, F., Nagarajan, S.*, Raj, A.\* (2023) 
+1. **Jin, H.^**, Verma, P.^, Jiang, F., Nagarajan, S.\*, Raj, A.\* (2023) 
 [Bayesian inference of a spectral graph model for brain oscillations](http://jinhuaqing.github.io/files/Jin_et_al_NeuroImage_2023.pdf), 
 ***NeuroImage***.
 [[Code](https://github.com/JINhuaqing/SBI-SGM)][[Link](https://authors.elsevier.com/sd/article/S1053-8119(23)00429-9)]
