@@ -22,7 +22,17 @@ author_profile: true
 
 *: Corresponding author
 
-1. **Jin, H.^**, Verma, P.^, Jiang, F., Nagarajan, S.\*, Raj, A.\* (2023) 
+1. **Jin, H.**, Kim, M., Scheffler, A., Jiang, F.\* (2023)
+[Bayesian adaptive design for covariate-adaptive historical control information borrowing](http://jinhuaqing.github.io/files/Jin_et_al_SIM_2023.pdf), 
+***Statistics in Medicine***. 
+[[Code](https://github.com/JINhuaqing/HistTrial)][[Supp](http://jinhuaqing.github.io/files/Jin_et_al_SIM_2023_supp.pdf)]
+
+1. **Jin, H.**, Ranasinghe, K., ..., Raj, A., Nagarajan, S.\*, Jiang, F.\*(2023)
+[Dynamic functional connectivity MEG features of Alzheimer's disease](http://jinhuaqing.github.io/files/Jin_et_al_NeuroImage_2023_2.pdf), 
+***Neuroimage***. 
+[[Code](https://github.com/JINhuaqing/TVDN-AD)]
+
+2. **Jin, H.^**, Verma, P.^, Jiang, F., Nagarajan, S.\*, Raj, A.\* (2023) 
 [Bayesian inference of a spectral graph model for brain oscillations](http://jinhuaqing.github.io/files/Jin_et_al_NeuroImage_2023.pdf), 
 ***NeuroImage***.
 [[Code](https://github.com/JINhuaqing/SBI-SGM)][[Link](https://authors.elsevier.com/sd/article/S1053-8119(23)00429-9)]
