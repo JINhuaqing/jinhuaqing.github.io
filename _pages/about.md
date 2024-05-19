@@ -20,7 +20,7 @@ Prof. [Chiung-Yu Huang](https://profiles.ucsf.edu/chiung-yu.huang).
 -->
 
 Before that, 
-we worked 
+he worked 
 in [Brain Networks Laboratory](https://radiology.ucsf.edu/research/labs/brain-networks-lab) with
 Prof. [Ashish Raj](https://radiology.ucsf.edu/people/ashish-raj) and
 Prof. [Srikantan Nagarajan](https://profiles.ucsf.edu/srikantan.nagarajan) in UCSF.
