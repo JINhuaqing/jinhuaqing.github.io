@@ -12,15 +12,22 @@ author_profile: true
 {% include base_path %}
 
 
-<!--
 ## **Manuscripts**
--->
+^: Co-first
+
+*: Corresponding author
+
+1. **Jin, H.**, Jiang, F.\* (2024+)
+[High dimensional test for functional covariates](https://arxiv.org/abs/2405.08912), 
+**submitted**. 
+
 
 ## **Publications**
 
 ^: Co-first
 
 *: Corresponding author
+
 
 1. **Jin, H.**, Kim, M., Scheffler, A., Jiang, F.\* (2023)
 [Bayesian adaptive design for covariate-adaptive historical control information borrowing](http://jinhuaqing.github.io/files/Jin_et_al_SIM_2023.pdf), 

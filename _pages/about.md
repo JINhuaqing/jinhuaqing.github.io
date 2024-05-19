@@ -9,13 +9,22 @@ redirect_from:
 ---
 
 
-**Huaqing Jin** is a post-doctor in the [Brain Networks Laboratory](https://radiology.ucsf.edu/research/labs/brain-networks-lab) at UCSF under supervision of 
-Prof. [Ashish Raj](https://radiology.ucsf.edu/people/ashish-raj) and
+**Huaqing Jin** is a post-doctor in the 
+Department of Epidemiology and Biostatistics
+at UCSF under supervision of 
 Dr. [Fei Jiang](https://jianglab.ucsf.edu/home) 
-and working with 
-Prof. [Srikantan Nagarajan](https://profiles.ucsf.edu/srikantan.nagarajan).
+and
+Prof. [Chiung-Yu Huang](https://profiles.ucsf.edu/chiung-yu.huang).
 
-Before that, he obtained his PhD degree in statistics under supervision of 
+<!-- 
+-->
+
+Before that, 
+we worked 
+in [Brain Networks Laboratory](https://radiology.ucsf.edu/research/labs/brain-networks-lab) with
+Prof. [Ashish Raj](https://radiology.ucsf.edu/people/ashish-raj) and
+Prof. [Srikantan Nagarajan](https://profiles.ucsf.edu/srikantan.nagarajan) in UCSF.
+He obtained his PhD degree in statistics under supervision of 
 Dr. [Fei Jiang](https://jianglab.ucsf.edu/home) and
 Prof. [Guosheng Yin](https://web.hku.hk/~gyin/) in the University of Hong Kong
 and his bachelor degree in statistics from Zhejiang University.
