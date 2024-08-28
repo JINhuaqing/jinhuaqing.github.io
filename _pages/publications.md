@@ -28,6 +28,13 @@ author_profile: true
 
 *: Corresponding author
 
+1. **Jin, H.**,...,  Nagarajan, S., Raj, A.\* (2024)
+[Bayesian Inference of Frequency Specific Functional Connectivity in MEG Imaging Using a Spectral Graph Model](http://jinhuaqing.github.io/files/Jin_et_al_Imag_2024.pdf), 
+***Imaging Neuroscience***. 
+[[Code](https://github.com/JINhuaqing/SBI-SGM-FC_paper)]
+[[A clean implementation](https://github.com/JINhuaqing/SBI-SGM-clean)]
+[[Impact Statement of the journal](https://direct.mit.edu/imag/pages/impact-statement)]
+
 
 1. **Jin, H.**, Kim, M., Scheffler, A., Jiang, F.\* (2023)
 [Bayesian adaptive design for covariate-adaptive historical control information borrowing](http://jinhuaqing.github.io/files/Jin_et_al_SIM_2023.pdf), 
