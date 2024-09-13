@@ -16,7 +16,7 @@ at UCSF under supervision of
 Dr. [Fei Jiang](https://jianglab.ucsf.edu/home) 
 and
 Prof. [Chiung-Yu Huang](https://profiles.ucsf.edu/chiung-yu.huang).
-**I am currently on the job market and seeking a faculty position in biostatistics.**
+**I am currently on the job market and seeking a faculty position in biostatistics/data science.**
 
 <!-- 
 -->
