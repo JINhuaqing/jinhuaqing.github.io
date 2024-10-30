@@ -26,7 +26,7 @@ I worked
 in [Brain Networks Laboratory](https://radiology.ucsf.edu/research/labs/brain-networks-lab) with
 Prof. [Ashish Raj](https://radiology.ucsf.edu/people/ashish-raj) and
 Prof. [Srikantan Nagarajan](https://profiles.ucsf.edu/srikantan.nagarajan) in UCSF.
-I obtained his PhD degree in statistics under supervision of 
+I obtained my PhD degree in statistics under supervision of 
 Dr. [Fei Jiang](https://jianglab.ucsf.edu/home) and
 Prof. [Guosheng Yin](https://web.hku.hk/~gyin/) in the University of Hong Kong
 and my bachelor degree in statistics from Zhejiang University.
