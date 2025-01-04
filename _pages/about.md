@@ -13,25 +13,24 @@ I am **Huaqing Jin**.
 I am currently a post-doctor in the 
 Department of Epidemiology and Biostatistics
 at UCSF under supervision of 
-Dr. [Fei Jiang](https://jianglab.ucsf.edu/home) 
-and
-Prof. [Chiung-Yu Huang](https://profiles.ucsf.edu/chiung-yu.huang).
-**I am currently on the job market and seeking a faculty position in biostatistics/data science.**
-
-<!-- 
--->
+Dr. [Fei Jiang](https://jianglab.ucsf.edu/home).
 
 Before that, 
-I worked 
-in [Brain Networks Laboratory](https://radiology.ucsf.edu/research/labs/brain-networks-lab) with
+I worked with Prof. [Chiung-Yu Huang](https://profiles.ucsf.edu/chiung-yu.huang) 
+at UCSF.
+I also worked in [Brain Networks Laboratory](https://radiology.ucsf.edu/research/labs/brain-networks-lab) with
 Prof. [Ashish Raj](https://radiology.ucsf.edu/people/ashish-raj) and
-Prof. [Srikantan Nagarajan](https://profiles.ucsf.edu/srikantan.nagarajan) in UCSF.
+Prof. [Srikantan Nagarajan](https://profiles.ucsf.edu/srikantan.nagarajan) at UCSF.
 I obtained my PhD degree in statistics under supervision of 
 Dr. [Fei Jiang](https://jianglab.ucsf.edu/home) and
 Prof. [Guosheng Yin](https://web.hku.hk/~gyin/) in the University of Hong Kong
 and my bachelor degree in statistics from Zhejiang University.
 My research interests include Bayesian statistics, brain imaging and clinical trial.
 
+
+News
+==== 
+* 2025-01: I will join the Department of Statistics and Data Science at Tsinghua University as a tenure-track assistant professor in September 2025.
 
 
 Education
