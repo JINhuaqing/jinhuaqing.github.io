@@ -38,17 +38,17 @@ author_profile: true
 [[Impact Statement of the journal](https://direct.mit.edu/imag/pages/impact-statement)]
 
 1. **Jin, H.**, Ranasinghe, K., ..., Raj, A., Nagarajan, S.\*, Jiang, F.\*(2023)
-[Dynamic functional connectivity MEG features of Alzheimer's disease](http://jinhuaqing.github.io/files/2023_Neuroimage_TVDNAD.pdf), 
+[Dynamic functional connectivity MEG features of Alzheimer's disease](http://jinhuaqing.github.io/files/2023_NeuroImage_TVDNAD.pdf), 
 ***Neuroimage***. 
 [[Code](https://github.com/JINhuaqing/TVDN-AD)]
 
 2. **Jin, H.^**, Verma, P.^, Jiang, F., Nagarajan, S.\*, Raj, A.\* (2023) 
-[Bayesian inference of a spectral graph model for brain oscillations](http://jinhuaqing.github.io/files/2023_Neuroimage_SBI_SGM.pdf), 
+[Bayesian inference of a spectral graph model for brain oscillations](http://jinhuaqing.github.io/files/2023_NeuroImage_SBI_SGM.pdf), 
 ***NeuroImage***.
 [[Code](https://github.com/JINhuaqing/SBI-SGM)][[Link](https://authors.elsevier.com/sd/article/S1053-8119(23)00429-9)]
 
 1. Jiang, F.\*, **Jin, H.^**, Gao, Y., Xie, X., Cummings, J., Raj, A.\*, Nagarajan, S.* (2022) 
-[Time-varying dynamic network model for dynamic resting state functional connectivity in fMRI and MEG imaging](http://jinhuaqing.github.io/files/2022_Neuroimage_TVDN.pdf), ***NeuroImage***. 
+[Time-varying dynamic network model for dynamic resting state functional connectivity in fMRI and MEG imaging](http://jinhuaqing.github.io/files/2022_NeuroImage_TVDN.pdf), ***NeuroImage***. 
 [[Code](https://github.com/JINhuaqing/TVDN)]
 
 ### Statistical Methodology
