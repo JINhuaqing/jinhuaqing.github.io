@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "Homepage of Huaqing Jin"
+title: "Huaqing Jin (金华清)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+modified: 2025-05-03
 ---
 
 
