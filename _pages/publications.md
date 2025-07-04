@@ -19,8 +19,16 @@ author_profile: true
 
 *: Corresponding author
 
-1. **Jin, H.**, Jiang, F.\* (2024+)
+1. **Jin, H.**, Jiang, F.\* (2025+)
 [High dimensional test for functional covariates](https://arxiv.org/abs/2405.08912), 
+**submitted**. 
+
+2. Cai, H.^, **Jin, H.**^, Li, L.\* (2025+)
+[Conformal Diffusion Models for Individual Treatment Effect Estimation and Inference](https://arxiv.org/abs/2408.01582), 
+**submitted**. 
+
+3. **Jin, H.**, Qin, J., Huang, C.\* (2025+)
+Conformal Inference for Minority Subgroups via Cross-Group Borrowing,
 **submitted**. 
 
 

@@ -32,7 +32,7 @@ My research interests include Bayesian statistics, brain imaging and clinical tr
 <!--
 News
 ==== 
-* 2025-01: I will join the Department of Statistics and Data Science at Tsinghua University as a tenure-track assistant professor in September 2025.
+* 2025-07: I will join the Department of Statistics and Data Science at Tsinghua University as a tenure-track assistant professor in September 2025.
 -->
 
 
