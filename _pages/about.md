@@ -6,11 +6,12 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-modified: 2025-05-03
+modified: 2025-07-23
 ---
 
 
 I am **Huaqing Jin**. 
+**I will join the Department of Statistics and Data Science at Tsinghua University as a tenure-track assistant professor in September 2025.**
 I am currently a post-doctor in the 
 Department of Epidemiology and Biostatistics
 at UCSF under supervision of 
@@ -27,13 +28,13 @@ Dr. [Fei Jiang](https://jianglab.ucsf.edu/home) and
 Prof. [Guosheng Yin](https://web.hku.hk/~gyin/) in the University of Hong Kong
 and my bachelor degree in statistics from Zhejiang University.
 My research interests include Bayesian statistics, brain imaging and clinical trial.
+**If you are interested in working with me, please feel free to contact me via email (kevinjin0423@gmail.com).**
 
 
-<!--
+
 News
 ==== 
 * 2025-07: I will join the Department of Statistics and Data Science at Tsinghua University as a tenure-track assistant professor in September 2025.
--->
 
 
 Education
