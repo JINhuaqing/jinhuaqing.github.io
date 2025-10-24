@@ -11,7 +11,7 @@ modified: 2025-09-28
 
 
 I am **Huaqing Jin**. 
-I am an assistant professor in the Department of Statistics and Data Science at Tsinghua University.
+I am an assistant professor in the [Department of Statistics and Data Science](https://www.stat.tsinghua.edu.cn/en/info/1023/1475.htm) at Tsinghua University.
 
 Before that, 
 I was a postdoc in the 
