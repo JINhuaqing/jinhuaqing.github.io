@@ -6,12 +6,12 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-modified: 2025-09-28
+modified: 2025-11-27
 ---
 
 
 I am **Huaqing Jin**. 
-I am an assistant professor in the [Department of Statistics and Data Science](https://www.stat.tsinghua.edu.cn/en/info/1023/1475.htm) at Tsinghua University.
+I am an [assistant professor](https://www.stat.tsinghua.edu.cn/en/info/1023/1475.htm) in the [Department of Statistics and Data Science](https://www.stat.tsinghua.edu.cn/en/info/1023/1475.htm) at Tsinghua University.
 
 Before that, 
 I was a postdoc in the 
@@ -33,6 +33,9 @@ My research interests include Bayesian statistics, brain imaging and clinical tr
 
 News
 ==== 
+
+* 2025-11: Our paper "_High-dimensional inference for functional regression with an application to the Alzheimer's disease magnetoencephalography study_" has been accepted for publication in ***Biostatistics***. 
+
 * 2025-09: I joined the Department of Statistics and Data Science at Tsinghua University as a tenure-track assistant professor.
 
 

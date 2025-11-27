@@ -3,7 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-modified: 2025-07-23
+modified: 2025-11-27
 ---
 
 {% comment %}
@@ -20,11 +20,8 @@ modified: 2025-07-23
 
 *: Corresponding author
 
-1. **Jin, H.**, Jiang, F.\* (2025+)
-[High dimensional test for functional covariates](https://arxiv.org/abs/2405.08912), 
-**submitted**. 
 
-2. Cai, H.^, **Jin, H.**^, Li, L.\* (2025+)
+1. Cai, H.^, **Jin, H.**^, Li, L.\* (2025+)
 [Conformal Diffusion Models for Individual Treatment Effect Estimation and Inference](https://arxiv.org/abs/2408.01582), 
 **submitted**. 
 
@@ -63,6 +60,11 @@ Conformal Inference for Minority Subgroups via Cross-Group Borrowing,
 [[Code](https://github.com/JINhuaqing/TVDN)]
 
 ### Statistical Methodology
+
+
+1. **Jin, H.**, Jiang, F.\* (2025)
+High-dimensional inference for functional regression with an application to the Alzheimer's disease magnetoencephalography study, 
+***Biostatistics***. 
 
 1. **Jin, H.**, Ma, Y., Jiang, F.\* (2022)
 [Matrix Completion with Covariate Information and
