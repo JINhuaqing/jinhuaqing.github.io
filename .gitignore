@@ -2,3 +2,6 @@
 .DS_Store
 Gemfile.lock
 _site/
+vendor/bundle/
+.venv-bib/
+others/

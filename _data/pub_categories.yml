@@ -1,0 +1,33 @@
+# Citation keys per section (order preserved). Must match bibliography/*.bib entry IDs.
+manuscripts:
+  - cai2024conformal
+  - jin2026conformal
+
+publications:
+  - title: "Neuroimaging"
+    keys:
+      - jin2023dynamic
+      - jin2023bayesian1
+      - jiang2022time
+      - jin2024bayesian
+      - jin2025high
+  - title: "Statistical methodology"
+    keys:
+      - jin2022bayesian
+      - jin2022matrix
+  - title: "Clinical trial"
+    keys:
+      - jin2023bayesian
+      - jin2023time
+      - jin2022cfo
+      - jin2021unit
+      - jin2020bayesian
+      - jin2022approximate
+  - title: "Others"
+    keys:
+      - zhang2021efficacy
+      - yin2020statistical
+      - yin2020comparison
+      - lam2020variable
+      - du2022deep
+      - wang2023two

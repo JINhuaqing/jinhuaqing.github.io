@@ -10,14 +10,14 @@ locale                   : "en-US"
 title                    : "Jin, Huaqing"
 title_separator          : "-"
 name                     : &name "Jin, Huaqing"
-description              : &description "personal description"
+description              : &description "Assistant professor in the Department of Statistics and Data Science at Tsinghua University. Research interests include Bayesian statistics, brain imaging, and clinical trials."
 url                      : https://jinhuaqing.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JINhuaqing/jinhuaqing.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "profile.jpg" # under /images/; used for default share preview when pages have no header image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -71,9 +71,9 @@ social:
   links: # An array of links to social media profiles
 
 
-# Analytics
+# Analytics (disabled: legacy google-universal snippet requires a tracking id and UA is deprecated)
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=wraxG7IAAAAJ"
   email            : "huaqingjin@mail.tsinghua.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Huaqing_Jin"
-  uri              :
+  uri              : "https://www.stat.tsinghua.edu.cn/en/info/1023/1475.htm"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-1932-1336"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -123,6 +123,7 @@ include:
   - _pages
   - files
 exclude:
+  - others
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -175,16 +176,10 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
 
@@ -209,15 +204,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -236,15 +222,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -255,7 +232,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

@@ -1,0 +1,32 @@
+name: Jekyll build
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      LANG: C.UTF-8
+      LC_ALL: C.UTF-8
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: true
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Regenerate publications from BibTeX
+        run: pip install -r scripts/requirements-bib.txt && python scripts/bib_to_jekyll.py
+
+      - name: Check publications data matches committed file
+        run: git diff --exit-code _data/publications_generated.yml
+
+      - name: Build site
+        run: bundle exec jekyll build --trace

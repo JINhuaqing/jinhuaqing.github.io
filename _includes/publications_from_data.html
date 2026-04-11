@@ -1,0 +1,46 @@
+{% assign pg = site.data.publications_generated %}
+{% if pg == nil %}
+  <p>Publications data missing. Run <code>make pubs</code> or <code>python scripts/bib_to_jekyll.py</code>.</p>
+{% else %}
+
+{% if pg.manuscripts.size > 0 %}
+<h2 id="manuscripts"><strong>Manuscripts</strong></h2>
+<p><small>^: Co-first; *: Corresponding author</small></p>
+<ol>
+  {% for item in pg.manuscripts %}
+  <li>
+    <span>{{ item.authors_html }}</span>
+    {% if item.title_url %}
+    <a href="{{ item.title_url }}">{{ item.title }}</a>{% else %}<span>{{ item.title }}</span>{% endif %},
+    <span>{{ item.venue_html }}</span>
+    {% if item.status %}
+      {% assign vl = item.venue_html | strip_html | downcase %}
+      {% unless vl contains 'submitted' %}
+      , <strong>{{ item.status }}</strong>
+      {% endunless %}
+    {% endif %}
+    {% for l in item.links %} [<a href="{{ l.url }}">{{ l.label }}</a>]{% endfor %}
+  </li>
+  {% endfor %}
+</ol>
+{% endif %}
+
+<h2 id="publications-list"><strong>Publications</strong></h2>
+<p><small>^: Co-first; *: Corresponding author</small></p>
+
+{% for sec in pg.publications %}
+<h3>{{ sec.title }}</h3>
+<ol>
+  {% for item in sec.items %}
+  <li>
+    <span>{{ item.authors_html }}</span>
+    {% if item.title_url %}
+    <a href="{{ item.title_url }}">{{ item.title }}</a>{% else %}<span>{{ item.title }}</span>{% endif %},
+    <span>{{ item.venue_html }}</span>.
+    {% for l in item.links %} [<a href="{{ l.url }}">{{ l.label }}</a>]{% endfor %}
+  </li>
+  {% endfor %}
+</ol>
+{% endfor %}
+
+{% endif %}

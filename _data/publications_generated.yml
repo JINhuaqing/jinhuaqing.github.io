@@ -1,0 +1,185 @@
+manuscripts:
+- id: cai2024conformal
+  authors_html: Cai, H.<sup>+</sup>, <strong>Jin, H.</strong><sup>+</sup>, Li, L.<sup>*</sup>
+  title: Conformal Diffusion Models for Individual Treatment Effect Estimation and Inference
+  title_url: https://arxiv.org/abs/2408.01582
+  venue_html: <em>Biometrics, Revision invited</em>, 2025
+  status: submitted
+  links: []
+- id: jin2026conformal
+  authors_html: <strong>Jin, H.</strong>, Qin, J., Huang, C.Y.<sup>*</sup>
+  title: Conformal Inference for Minority Subgroups via Cross-Group Borrowing
+  title_url: null
+  venue_html: <em>Biometrics, Submitted</em>, 2026
+  status: submitted
+  links: []
+publications:
+- title: Neuroimaging
+  items:
+  - id: jin2023dynamic
+    authors_html: <strong>Jin, H.</strong>, Ranasinghe, K.G., Prabhu, P., Dale, C., Gao, Y., Kudo, K., Vossel, K., Raj, A., Nagarajan, S.S.<sup>*</sup>, Jiang, F.<sup>*</sup>
+    title: Dynamic functional connectivity MEG features of Alzheimer’s disease
+    title_url: http://jinhuaqing.github.io/files/2023_NeuroImage_TVDNAD.pdf
+    venue_html: <em>NeuroImage</em>, 281, 120358, 2023
+    status: null
+    links:
+    - label: Code
+      url: https://github.com/JINhuaqing/TVDN-AD
+  - id: jin2023bayesian1
+    authors_html: <strong>Jin, H.</strong><sup>+</sup>, Verma, P.<sup>+</sup>, Jiang, F., Nagarajan, S.S., Raj, A.<sup>*</sup>
+    title: Bayesian inference of a spectral graph model for brain oscillations
+    title_url: http://jinhuaqing.github.io/files/2023_NeuroImage_SBI_SGM.pdf
+    venue_html: <em>NeuroImage</em>, 279, 120278, 2023
+    status: null
+    links:
+    - label: Code
+      url: https://github.com/JINhuaqing/SBI-SGM
+    - label: Link
+      url: https://authors.elsevier.com/sd/article/S1053-8119(23)00429-9
+  - id: jiang2022time
+    authors_html: Jiang, F.<sup>+</sup>, <strong>Jin, H.</strong><sup>+</sup>, Gao, Y., Xie, X., Cummings, J., Raj, A., Nagarajan, S.<sup>*</sup>
+    title: Time-varying dynamic network model for dynamic resting state functional connectivity in fMRI and MEG imaging
+    title_url: http://jinhuaqing.github.io/files/2022_NeuroImage_TVDN.pdf
+    venue_html: <em>NeuroImage</em>, 254, 119131, 2022
+    status: null
+    links:
+    - label: Code
+      url: https://github.com/JINhuaqing/TVDN
+  - id: jin2024bayesian
+    authors_html: <strong>Jin, H.</strong>, Abdelnour, F., Verma, P., Sipes, B.S., Nagarajan, S.S., Raj, A.<sup>*</sup>
+    title: Bayesian inference of frequency-specific functional connectivity in MEG imaging using a spectral graph model
+    title_url: http://jinhuaqing.github.io/files/2024_IMAG_SGM-FC.pdf
+    venue_html: <em>Imaging Neuroscience</em>, 2, 1-24, 2024
+    status: null
+    links:
+    - label: Code
+      url: https://github.com/JINhuaqing/SBI-SGM-FC_paper
+    - label: A clean implementation
+      url: https://github.com/JINhuaqing/SBI-SGM-clean
+    - label: Impact Statement of the journal
+      url: https://direct.mit.edu/imag/pages/impact-statement
+  - id: jin2025high
+    authors_html: <strong>Jin, H.</strong>, Jiang, F.
+    title: High-dimensional inference for functional regression with an application to the Alzheimer’s disease magnetoencephalography study
+    title_url: https://doi.org/10.1093/biostatistics/kxaf050
+    venue_html: <em>Biostatistics</em>, 26(1), kxaf050, 2025
+    status: null
+    links: []
+- title: Statistical methodology
+  items:
+  - id: jin2022bayesian
+    authors_html: <strong>Jin, H.</strong>, Yin, G., Yuan, B., Jiang, F.<sup>*</sup>
+    title: Bayesian hierarchical model for change point detection in multivariate sequences
+    title_url: http://jinhuaqing.github.io/files/2022_Technometrics_Mulseq.pdf
+    venue_html: <em>Technometrics</em>, 64(2), 177--186, 2022
+    status: null
+    links: []
+  - id: jin2022matrix
+    authors_html: <strong>Jin, H.</strong>, Ma, Y., Jiang, F.<sup>*</sup>
+    title: Matrix completion with covariate information and informative missingness
+    title_url: http://jinhuaqing.github.io/files/2022_JMLR_MNAR.pdf
+    venue_html: <em>Journal of Machine Learning Research</em>, 23(180), 1--62, 2022
+    status: null
+    links: []
+- title: Clinical trial
+  items:
+  - id: jin2023bayesian
+    authors_html: <strong>Jin, H.</strong>, Kim, M.O., Scheffler, A., Jiang, F.<sup>*</sup>
+    title: Bayesian adaptive design for covariate-adaptive historical control information borrowing
+    title_url: http://jinhuaqing.github.io/files/2023_SIM_CAHB.pdf
+    venue_html: <em>Statistics in medicine</em>, 42(29), 5338--5352, 2023
+    status: null
+    links:
+    - label: Supp
+      url: http://jinhuaqing.github.io/files/2023_SIM_CAHB_supp.pdf
+    - label: Code
+      url: https://github.com/JINhuaqing/HistTrial
+  - id: jin2023time
+    authors_html: <strong>Jin, H.</strong>, Yin, G.<sup>*</sup>
+    title: 'Time-to-event calibration-free odds design: a robust efficient design for phase I trials with late-onset outcomes'
+    title_url: http://jinhuaqing.github.io/files/2023_PharmStat_TITE_CFO.pdf
+    venue_html: <em>Pharmaceutical Statistics</em>, 22(5), 773--783, 2023
+    status: null
+    links:
+    - label: Supp
+      url: http://jinhuaqing.github.io/files/2023_PharmStat_TITE_CFO_supp.pdf
+  - id: jin2022cfo
+    authors_html: <strong>Jin, H.</strong>, Yin, G.<sup>*</sup>
+    title: 'CFO: Calibration-free odds design for phase I/II clinical trials'
+    title_url: http://jinhuaqing.github.io/files/2022_SMMR_CFO.pdf
+    venue_html: <em>Statistical Methods in Medical Research</em>, 31(6), 1051--1066, 2022
+    status: null
+    links:
+    - label: Supp
+      url: http://jinhuaqing.github.io/files/2022_SMMR_CFO_supp.pdf
+    - label: Code
+      url: https://github.com/JINhuaqing/CFO
+  - id: jin2021unit
+    authors_html: <strong>Jin, H.</strong>, Yin, G.<sup>*</sup>
+    title: Unit information prior for adaptive information borrowing from multiple historical datasets
+    title_url: http://jinhuaqing.github.io/files/2021_SIM_UIP.pdf
+    venue_html: <em>Statistics in Medicine</em>, 40(25), 5657--5672, 2021
+    status: null
+    links: []
+  - id: jin2020bayesian
+    authors_html: <strong>Jin, H.</strong>, Yin, G.<sup>*</sup>
+    title: Bayesian enhancement two-stage design with error control for phase II clinical trials
+    title_url: http://jinhuaqing.github.io/files/2020_SIM_BETEC.pdf
+    venue_html: <em>Statistics in Medicine</em>, 39(29), 4452--4465, 2020
+    status: null
+    links:
+    - label: Code
+      url: https://github.com/JINhuaqing/BETEC
+  - id: jin2022approximate
+    authors_html: <strong>Jin, H.</strong>, Du, W., Yin, G.<sup>*</sup>
+    title: Approximate Bayesian computation design for phase I clinical trials
+    title_url: http://jinhuaqing.github.io/files/2022_SMMR_ABC.pdf
+    venue_html: <em>Statistical methods in medical research</em>, 31(12), 2310--2322, 2022
+    status: null
+    links:
+    - label: Supp
+      url: http://jinhuaqing.github.io/files/2022_SMMR_ABC_supp.pdf
+- title: Others
+  items:
+  - id: zhang2021efficacy
+    authors_html: Zhang, C., <strong>Jin, H.</strong>, Wen, Y.F., Yin, G.<sup>*</sup>
+    title: 'Efficacy of COVID-19 treatments: a Bayesian network meta-analysis of randomized controlled trials'
+    title_url: http://jinhuaqing.github.io/files/2021_FPH_MetaCovid.pdf
+    venue_html: <em>Frontiers in Public Health</em>, 9, 729559, 2021
+    status: null
+    links: []
+  - id: yin2020statistical
+    authors_html: Yin, G.<sup>*</sup>, Zhang, C., <strong>Jin, H.</strong>
+    title: Statistical issues and lessons learned from COVID-19 clinical trials with lopinavir-ritonavir and remdesivir
+    title_url: http://jinhuaqing.github.io/files/2020_JPH_Issue.pdf
+    venue_html: <em>JMIR Public Health and Surveillance</em>, 6(3), e19538, 2020
+    status: null
+    links: []
+  - id: yin2020comparison
+    authors_html: Yin, G.<sup>*</sup>, <strong>Jin, H.</strong>
+    title: 'Comparison of transmissibility of coronavirus between symptomatic and asymptomatic patients: reanalysis of the Ningbo COVID-19 data'
+    title_url: http://jinhuaqing.github.io/files/2020_JPH_Ningbo.pdf
+    venue_html: <em>JMIR public health and surveillance</em>, 6(2), e19464, 2020
+    status: null
+    links: []
+  - id: lam2020variable
+    authors_html: Lam, C.K., <strong>Jin, H.</strong>, Jiang, F., Yin, G.<sup>*</sup>
+    title: A Variable Selection Approach to Multiple Change-Points Detection
+    title_url: http://jinhuaqing.github.io/files/2020_SII_MCPT.pdf
+    venue_html: <em>Statistics and Its Interface</em>, 13(2), 251--260, 2020
+    status: null
+    links: []
+  - id: du2022deep
+    authors_html: Du, W., <strong>Jin, H.</strong>, Yu, C., Yin, G.<sup>*</sup>
+    title: Deep Reinforcement Learning for Bandit Arm Localization
+    title_url: http://jinhuaqing.github.io/files/2022_ICBD_RLPhaseI.pdf
+    venue_html: <em>2022 IEEE International Conference on Big Data (Big Data)</em>, 5243--5252, 2022
+    status: null
+    links: []
+  - id: wang2023two
+    authors_html: Wang, W., <strong>Jin, H.</strong>, Zhang, Y.D., Yin, G.<sup>*</sup>
+    title: Two-dimensional calibration-free odds design for phase I drug-combination trials
+    title_url: http://jinhuaqing.github.io/files/2023_FO_2dCFO.pdf
+    venue_html: <em>Frontiers in Oncology</em>, 13, 1294258, 2023
+    status: null
+    links: []

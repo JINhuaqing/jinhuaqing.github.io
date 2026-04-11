@@ -1,0 +1,82 @@
+# Optional links and status text keyed by BibTeX entry ID (merged by scripts/bib_to_jekyll.py).
+# title_url: primary link on the paper title; pdf/supp/code: extra bracket links like the old site.
+
+cai2024conformal:
+  title_url: "https://arxiv.org/abs/2408.01582"
+  status: "submitted"
+
+jin2026conformal:
+  status: "submitted"
+
+jin2024bayesian:
+  title_url: "http://jinhuaqing.github.io/files/2024_IMAG_SGM-FC.pdf"
+  code: "https://github.com/JINhuaqing/SBI-SGM-FC_paper"
+  links:
+    - { label: "A clean implementation", url: "https://github.com/JINhuaqing/SBI-SGM-clean" }
+    - { label: "Impact Statement of the journal", url: "https://direct.mit.edu/imag/pages/impact-statement" }
+
+jin2023dynamic:
+  title_url: "http://jinhuaqing.github.io/files/2023_NeuroImage_TVDNAD.pdf"
+  code: "https://github.com/JINhuaqing/TVDN-AD"
+
+jin2023bayesian1:
+  title_url: "http://jinhuaqing.github.io/files/2023_NeuroImage_SBI_SGM.pdf"
+  code: "https://github.com/JINhuaqing/SBI-SGM"
+  links:
+    - { label: "Link", url: "https://authors.elsevier.com/sd/article/S1053-8119(23)00429-9" }
+
+jiang2022time:
+  title_url: "http://jinhuaqing.github.io/files/2022_NeuroImage_TVDN.pdf"
+  code: "https://github.com/JINhuaqing/TVDN"
+
+jin2025high:
+  title_url: "https://doi.org/10.1093/biostatistics/kxaf050"
+
+jin2022matrix:
+  title_url: "http://jinhuaqing.github.io/files/2022_JMLR_MNAR.pdf"
+
+jin2022bayesian:
+  title_url: "http://jinhuaqing.github.io/files/2022_Technometrics_Mulseq.pdf"
+
+jin2023bayesian:
+  title_url: "http://jinhuaqing.github.io/files/2023_SIM_CAHB.pdf"
+  code: "https://github.com/JINhuaqing/HistTrial"
+  supp: "http://jinhuaqing.github.io/files/2023_SIM_CAHB_supp.pdf"
+
+jin2023time:
+  title_url: "http://jinhuaqing.github.io/files/2023_PharmStat_TITE_CFO.pdf"
+  supp: "http://jinhuaqing.github.io/files/2023_PharmStat_TITE_CFO_supp.pdf"
+
+jin2022approximate:
+  title_url: "http://jinhuaqing.github.io/files/2022_SMMR_ABC.pdf"
+  supp: "http://jinhuaqing.github.io/files/2022_SMMR_ABC_supp.pdf"
+
+jin2022cfo:
+  title_url: "http://jinhuaqing.github.io/files/2022_SMMR_CFO.pdf"
+  supp: "http://jinhuaqing.github.io/files/2022_SMMR_CFO_supp.pdf"
+  code: "https://github.com/JINhuaqing/CFO"
+
+jin2021unit:
+  title_url: "http://jinhuaqing.github.io/files/2021_SIM_UIP.pdf"
+
+jin2020bayesian:
+  title_url: "http://jinhuaqing.github.io/files/2020_SIM_BETEC.pdf"
+  code: "https://github.com/JINhuaqing/BETEC"
+
+wang2023two:
+  title_url: "http://jinhuaqing.github.io/files/2023_FO_2dCFO.pdf"
+
+du2022deep:
+  title_url: "http://jinhuaqing.github.io/files/2022_ICBD_RLPhaseI.pdf"
+
+zhang2021efficacy:
+  title_url: "http://jinhuaqing.github.io/files/2021_FPH_MetaCovid.pdf"
+
+yin2020statistical:
+  title_url: "http://jinhuaqing.github.io/files/2020_JPH_Issue.pdf"
+
+yin2020comparison:
+  title_url: "http://jinhuaqing.github.io/files/2020_JPH_Ningbo.pdf"
+
+lam2020variable:
+  title_url: "http://jinhuaqing.github.io/files/2020_SII_MCPT.pdf"

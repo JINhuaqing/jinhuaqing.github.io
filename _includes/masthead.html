@@ -10,11 +10,24 @@
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
-              {% else %}
+            {% else %}
               {% assign domain = base_path %}
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
+          <li class="masthead__menu-item masthead__menu-item--lang" aria-label="Language">
+            {% if page.permalink == '/zh/' %}
+              <a href="{{ base_path }}/">EN</a>
+            {% else %}
+              <strong>EN</strong>
+            {% endif %}
+            <span class="masthead__lang-sep">&nbsp;|&nbsp;</span>
+            {% if page.permalink == '/zh/' %}
+              <strong>中文</strong>
+            {% else %}
+              <a href="{{ base_path }}/zh/" hreflang="zh">中文</a>
+            {% endif %}
+          </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>

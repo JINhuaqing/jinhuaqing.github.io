@@ -50,4 +50,17 @@
     padding-right: 2em;
     font-weight: 700;
   }
+
+  &--lang {
+    margin-left: 0.35em;
+    font-weight: normal;
+
+    strong {
+      font-weight: 600;
+    }
+  }
+}
+
+.masthead__lang-sep {
+  color: $gray;
 }
