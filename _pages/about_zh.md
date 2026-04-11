@@ -44,3 +44,9 @@ modified: 2026-02-24
 * SCT Thomas Chalmers 学生奖学金入围，2020，国际临床试验学会  
 * 孔庆荧奖学金，2020—2022，香港大学
 
+
+----
+
+----
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YD-xsuqtgbR5Opk1qnMnnTE5uqO1LZA-btlGEZfmoRA&cl=ffffff&w=a"></script>
