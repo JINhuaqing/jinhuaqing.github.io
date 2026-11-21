@@ -3,7 +3,7 @@ permalink: /zh/
 title: "金华清 (Huaqing Jin)"
 excerpt: "关于我"
 author_profile: true
-modified: 2026-02-24
+modified: 2026-11-21
 ---
 
 我是**金华清（Huaqing Jin）**。自 2025 年 9 月起，任清华大学[统计与数据科学系](https://www.stat.tsinghua.edu.cn/en/info/1023/1475.htm)[助理教授](https://www.stat.tsinghua.edu.cn/en/info/1023/1475.htm)。
@@ -21,6 +21,8 @@ modified: 2026-02-24
 
 
 ## 动态
+
+* 2026-11：论文《*Conformal Diffusion Models for Individual Treatment Effect Inference*》已被 ***Biometrics*** 接收发表。
 
 * 2025-11：论文《*High-dimensional inference for functional regression with an application to the Alzheimer's disease magnetoencephalography study*》已被 ***Biostatistics*** 接收发表。
 

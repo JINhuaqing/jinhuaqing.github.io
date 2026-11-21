@@ -1,6 +1,6 @@
 # Citation keys per section (order preserved). Must match bibliography/*.bib entry IDs.
 manuscripts:
-  - cai2024conformal
+  - zhang2026radish
   - jin2026conformal
 
 publications:
@@ -13,6 +13,7 @@ publications:
       - jin2025high
   - title: "Statistical methodology"
     keys:
+      - cai2027conformal
       - jin2022bayesian
       - jin2022matrix
   - title: "Clinical trial"

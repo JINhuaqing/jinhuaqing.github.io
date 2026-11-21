@@ -129,11 +129,14 @@ def build_item(key: str, entries: dict[str, dict], overrides: dict) -> dict | No
         if isinstance(extra, dict) and extra.get("url"):
             links.append({"label": str(extra.get("label", "link")), "url": str(extra["url"])})
 
-    venue_html = f"<em>{journal_esc}</em>"
+    venue_bits = []
+    if journal_esc:
+        venue_bits.append(f"<em>{journal_esc}</em>")
     if volpages:
-        venue_html += f", {html.escape(volpages)}"
+        venue_bits.append(html.escape(volpages))
     if year:
-        venue_html += f", {html.escape(year)}"
+        venue_bits.append(html.escape(year))
+    venue_html = ", ".join(venue_bits)
 
     return {
         "id": k,

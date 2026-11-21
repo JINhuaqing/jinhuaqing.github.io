@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-modified: 2026-02-24
+modified: 2026-11-21
 ---
 
 
@@ -21,10 +21,12 @@ I obtained my PhD in statistics under Dr. [Fei Jiang](https://jianglab.ucsf.edu/
 
 **Methodologies:** Bayesian methods, high-dimensional statistics, change-point detection, deep generative models, conformal prediction.
 
-**Application areas:** Neuroimaging data analysis in Alzheimer's disease; Bayesian clinical trial design in oncology.
+**Application areas:** Neuroimaging data analysis in Alzheimer's disease; Bayesian clinical trial design in oncology; Brain-computer interface (BCI) data analysis.
 
 
 ## News
+
+* 2026-11: Our paper "Conformal Diffusion Models for Individual Treatment Effect Inference" has been accepted for publication in ***Biometrics***.
 
 * 2025-11: Our paper "_High-dimensional inference for functional regression with an application to the Alzheimer's disease magnetoencephalography study_" has been accepted for publication in ***Biostatistics***. 
 

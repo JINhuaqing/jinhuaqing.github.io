@@ -7,6 +7,10 @@ author_profile: true
 
 ## Tsinghua University
 
+**Fall 2026** — *Monte Carlo Methods* (undergraduate).
+
+**Co-instructor** with Prof. Jun Liu. Designing and delivering lectures, developing course materials and assessments, and evaluating student performance.
+
 **Spring 2026** — *Selected Topics on Advanced Statistics: I* (graduate).
 
 **Instructor.** Designing and delivering lectures, developing course materials and assessments, and evaluating student performance.

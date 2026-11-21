@@ -1,12 +1,16 @@
 # Optional links and status text keyed by BibTeX entry ID (merged by scripts/bib_to_jekyll.py).
 # title_url: primary link on the paper title; pdf/supp/code: extra bracket links like the old site.
 
-cai2024conformal:
-  title_url: "https://arxiv.org/abs/2408.01582"
+zhang2026radish:
+  title_url: "https://arxiv.org/abs/2611.19968"
   status: "submitted"
 
 jin2026conformal:
   status: "submitted"
+
+cai2027conformal:
+  title_url: "https://arxiv.org/abs/2408.01582"
+
 
 jin2024bayesian:
   title_url: "http://jinhuaqing.github.io/files/2024_IMAG_SGM-FC.pdf"

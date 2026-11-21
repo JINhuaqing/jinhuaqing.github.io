@@ -1,16 +1,16 @@
 manuscripts:
-- id: cai2024conformal
-  authors_html: Cai, H.<sup>+</sup>, <strong>Jin, H.</strong><sup>+</sup>, Li, L.<sup>*</sup>
-  title: Conformal Diffusion Models for Individual Treatment Effect Estimation and Inference
-  title_url: https://arxiv.org/abs/2408.01582
-  venue_html: <em>Biometrics, Revision invited</em>, 2025
+- id: zhang2026radish
+  authors_html: Zhang, H., Qu, Y., Kim, M.O., <strong>Jin, H.</strong><sup>*</sup>
+  title: 'RADISH: A Robust Covariate-Adaptive Trial Design with Historical Control Borrowing'
+  title_url: https://arxiv.org/abs/2611.19968
+  venue_html: '2026'
   status: submitted
   links: []
 - id: jin2026conformal
   authors_html: <strong>Jin, H.</strong>, Qin, J., Huang, C.Y.<sup>*</sup>
   title: Conformal Inference for Minority Subgroups via Cross-Group Borrowing
   title_url: null
-  venue_html: <em>Biometrics, Submitted</em>, 2026
+  venue_html: '2026'
   status: submitted
   links: []
 publications:
@@ -67,6 +67,13 @@ publications:
     links: []
 - title: Statistical methodology
   items:
+  - id: cai2027conformal
+    authors_html: Cai, H.<sup>+</sup>, <strong>Jin, H.</strong><sup>+</sup>, Li, L.<sup>*</sup>
+    title: Conformal Diffusion Models for Individual Treatment Effect Estimation and Inference
+    title_url: https://arxiv.org/abs/2408.01582
+    venue_html: <em>Biometrics</em>, 2027
+    status: null
+    links: []
   - id: jin2022bayesian
     authors_html: <strong>Jin, H.</strong>, Yin, G., Yuan, B., Jiang, F.<sup>*</sup>
     title: Bayesian hierarchical model for change point detection in multivariate sequences
