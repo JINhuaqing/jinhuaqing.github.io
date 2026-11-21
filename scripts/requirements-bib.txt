@@ -1,2 +1,2 @@
-bibtexparser>=1.4.0
+bibtexparser>=1.4.0,<2
 PyYAML>=6.0
